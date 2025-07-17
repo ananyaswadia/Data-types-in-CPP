@@ -2,7 +2,9 @@
 A discussion on the basic data types C++ has to offer.
 
 Aim: To learn and implement data types in C++.
+
 Tool: V S Code or any IDE.
+
 Theory: 
 🔹 int (Integer)
 Stores whole numbers (no decimals)
