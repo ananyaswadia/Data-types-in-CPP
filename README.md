@@ -32,9 +32,6 @@ Example: float temp = 36.6f; (note the f)
 🔹 bool (Boolean)
 Stores true or false
 Used in conditions and logic
-
-
+Example: bool isPassed = true;
 
 Conclusion: We learnt about the basic data types supported by C++ and how to use them .
-
-Example: bool isPassed = true;
