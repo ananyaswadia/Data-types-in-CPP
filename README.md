@@ -1,11 +1,11 @@
 # Data-types-in-CPP
 A discussion on the basic data types C++ has to offer.
 
-Aim: To learn and implement data types in C++.
+🎯Aim: To learn and implement data types in C++.
 
-Tool: V S Code or any IDE.
+⚙️Tools: V S Code or any IDE.
 
-Theory: 
+💡Theory: 
 
 🔹 int (Integer)
 Stores whole numbers (no decimals)
@@ -36,4 +36,4 @@ Used in conditions and logic
 Example: bool isPassed = true;
 
 
-Conclusion: We learnt about the basic data types supported by C++ and how to use them .
+✅Conclusion: We learnt about the basic data types supported by C++ and how to use them .
