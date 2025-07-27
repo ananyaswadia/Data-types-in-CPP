@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    cout<<"---EXP-2 Program to check size of data types---"<<endl;
+    cout<<"---Program to check size of data types---"<<endl;
    
     int a;
     float b;
@@ -39,3 +39,20 @@ int main(){
    
     return 0;
 }
+
+
+
+/* ---Program to check size of data types---
+Enter an integar: 5
+Integer is 5 and it's size is 4 bytes
+Enter a decimal number: 9.8
+Decimal number is 9.8 and it's size is 4 bytes
+Enter a character: a
+Character is a and it's size is 1 bytes
+Enter a number with a bigger decimal : 8.9467567544
+The bigger decimal is 8.94676 and it's size is 8 bytes
+Enter a sting: hello
+String is hello and it's size is 32 bytes
+Enter a boolean value: 1
+Boolean value is 1 and it's size is 1 bytes
+*/
