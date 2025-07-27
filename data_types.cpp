@@ -42,7 +42,8 @@ int main(){
 
 
 
-/* ---Program to check size of data types---
+/*   OUTPUT 
+---Program to check size of data types---
 Enter an integar: 5
 Integer is 5 and it's size is 4 bytes
 Enter a decimal number: 9.8
